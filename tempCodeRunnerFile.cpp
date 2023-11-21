@@ -1,1 +1,1 @@
-string start = daysVector[currentIndex];
+vector<int> ans;
